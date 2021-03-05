@@ -1,5 +1,6 @@
 package org.testngframework;
 
 public interface Demo {
-	int a = 10;
+	void example();
+    int a = 10;
 }
